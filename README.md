@@ -1,5 +1,5 @@
 # CometHack2022
-Repo for team Moose Champions' Comet Hack submission, the Selma Security System
+Repository for team Moose Champions' Comet Hack submission, the Selma Security System
 
 "Arduino_1.ino" is the code for the first Arduino that is hooked up to the potentiometer, keypad, LCD display, and the RGB LED.
 
